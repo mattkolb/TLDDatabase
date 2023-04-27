@@ -1,5 +1,5 @@
 {
-  "name": "layershifter/tld-database",
+  "name": "mattkolb/tld-database",
   "description": "Database abstraction for Public Suffix List",
   "keywords": [
     "PSL",
@@ -18,7 +18,7 @@
   "require": {
     "layershifter/tld-support": "^1.0.0",
     "ext-curl": "*",
-    "php": "^5.5.0 || ^7.0"
+    "php": "^5.5.0 || ^7.0 || ^8.0"
   },
   "require-dev": {
     "codeclimate/php-test-reporter": "dev-master",
